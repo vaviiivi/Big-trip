@@ -1,6 +1,6 @@
 # Проект «Большое путешествие»
 
-* Студент: [Кристина Вавилина](https://up.htmlacademy.ru/univer-js2/4/user/2435413).
+* Студент:
 * Наставник: [Евгений Лепёшкин](https://htmlacademy.ru/profile/spearance).
 
 ---
